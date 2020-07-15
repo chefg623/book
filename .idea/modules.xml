@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mabytis-03/mabytis-03.iml" filepath="$PROJECT_DIR$/mabytis-03/mabytis-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybaties-01/mybaties-01.iml" filepath="$PROJECT_DIR$/mybaties-01/mybaties-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-02/mybatis-02.iml" filepath="$PROJECT_DIR$/mybatis-02/mybatis-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-03/mybatis-03.iml" filepath="$PROJECT_DIR$/mybatis-03/mybatis-03.iml" />
+    </modules>
+  </component>
+</project>
