@@ -9,6 +9,7 @@ public interface userDao {
     /*万能map*/
 
     List<user> getUserByLimit(Map<String,Integer> map);
+    List<user> getUserByName(Map<String,Integer> map);
 
 
 
