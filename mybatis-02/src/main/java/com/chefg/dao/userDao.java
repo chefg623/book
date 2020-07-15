@@ -11,6 +11,12 @@ public interface userDao {
     List<user> getUserByLimit(Map<String,Integer> map);
     List<user> getUserByName(Map<String,Integer> map);
 
+    /*
+    * y
+    *
+    *
+    * */
+
 
 
 
